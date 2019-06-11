@@ -13,13 +13,15 @@ div{
     margin: 150px;
     margin-right: auto;
     margin-left: auto;
-    font-size: 100%;
+    font-size: auto;
     line-height: 3;
 }
 .Reset{
-    margin-left:10px;
+    margin-left:auto;
+    margin-right: auto;
 
 }
 .checkBMI{
-    margin-left: 90px;
+    margin-left:auto;
+    margin-right: auto;
 }
