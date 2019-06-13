@@ -1,0 +1,29 @@
+body{
+    background-color:rgb(221, 255, 177)
+}
+div{
+    background-color: rgb(2, 2, 54);
+    color: white;
+    padding: 10px 40px;
+    border-radius:40px;
+    border: 2px solid rgb(255, 126, 5);
+    width:50%;
+    text-align: center;
+    margin: 150px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size:auto;
+    line-height: 2.6;
+}
+.Reset{
+    margin-left:auto;
+    margin-right: auto;
+
+}
+.checkBMI{
+    margin-left:auto;
+    margin-right: auto;
+}
+.label{
+    line-height:2px;
+}
